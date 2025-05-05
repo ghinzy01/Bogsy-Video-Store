@@ -1,0 +1,12 @@
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\bin\Debug\BogsyVideoStore1.exe.config
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\bin\Debug\BogsyVideoStore1.exe
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\bin\Debug\BogsyVideoStore1.pdb
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.csproj.AssemblyReference.cache
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.Form1.resources
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.Properties.Resources.resources
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.csproj.GenerateResource.cache
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.csproj.CoreCompileInputs.cache
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.exe
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.pdb
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.Signup.resources
+C:\Users\ghinz\source\repos\BogsyVideoStore1\BogsyVideoStore1\obj\Debug\BogsyVideoStore1.MainForm.resources
